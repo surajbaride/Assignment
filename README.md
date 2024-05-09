@@ -1,7 +1,7 @@
 # Assignment-
 # My React Project
 
-This project was bootstrapped with [Create React App](https://github.com/surajbaride/Assignment-/tree/main).
+This project was bootstrapped with [Create React App](https://github.com/surajbaride/Assignment).
 
 # SpaceX Launches Dashboard
 
